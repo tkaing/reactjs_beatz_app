@@ -1,0 +1,23 @@
+.SearchBar {
+    display: flex;
+    margin: 50px 80px 50px;
+}
+.SearchBar-text-field {
+    flex: 4;
+}
+.SearchBar-button {
+    flex: 1;
+    margin-left: 50px !important;
+}
+@media (max-width: 768px) {
+    .SearchBar {
+        margin: 35px 40px 25px;
+    }
+    .SearchBar-text-field {
+        flex: 4;
+    }
+    .SearchBar-button {
+        flex: 1;
+        margin-left: 25px !important;
+    }
+}

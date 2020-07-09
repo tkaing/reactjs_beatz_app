@@ -1,0 +1,17 @@
+.MuiTab-labelIcon {
+    padding-top: 20px !important;
+}
+.MuiAppBar-colorDefault {
+    background-color: transparent !important;
+}
+@media (max-width: 576px) {
+    .MuiButton-startIcon {
+        margin-right: 0 !important;
+    }
+}
+@media (min-width: 1050px) {
+    .MuiTabs-flexContainer {
+        justify-content: center;
+    }
+}
+

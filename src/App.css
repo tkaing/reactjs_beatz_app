@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+/*rgb(150,88,243)*/
+.Color-white { color: #FFFFFF !important; }
+.Color-primary { color: #9658F3 !important; }
+.Background-primary { background-color: #9658F3 !important; }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
